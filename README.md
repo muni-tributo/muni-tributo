@@ -1,3 +1,8 @@
+<p align="center">
+  🔗 Este perfil é da empresa. Para acessar meu perfil pessoal, visite: 
+  <a href="https://github.com/Silenttttttt"><strong>github.com/Silentttttttt</strong></a>
+</p>
+
 <h1 align="center">
     <br>
     Welcome to My Github Profile 
